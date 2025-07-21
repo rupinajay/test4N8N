@@ -1,12 +1,10 @@
-## Test: test.py -- n8n workflow test48 (2025-07-21)
+## Test workflow via CLI for n8n on 2025-07-21
 
-This commit introduces a new file for testing an n8n workflow. It's designed to validate the integration with external applications.
-
-**Commit:** **6806073dd2eb4f58236d54fa76eac6d133abdc35**
+This changelog entry documents changes related to testing the execution of an n8n workflow using the command-line interface (CLI). The modifications were made to **Commit:** `b3b9d0e304cf1f81ca42adaa02a931d94483adc1`.
 
 ### File Changes
 
-* Added:
-  * test2.py
-* Modified: None
+* Added: None
+* Modified:
+	+ test3.py
 * Removed: None
