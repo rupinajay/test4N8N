@@ -1,20 +1,28 @@
-Here is a concise summary of the commit message and file changes in Markdown format:
+=Here is a concise summary for a changelog:
 
-## Changelog
+### Changelog Entry
 
-### Commit Summary
-* Test: `test.py` -- `n8n` workflow `test36`
+* **Changes**
+	+ Removed file: `hello.py`
+	+ Added/updated test: `test37` using `test.py`
+* **Files Changed:** None (no code changes detected)
 
-### File Changes
-* Modified: `forloop.py`
-* No new files added.
-* No files removed.
+Note that I've assumed the commit message and diff output indicate removal of the `hello.py` file. As there are no diffs provided, I couldn't determine any explicit modifications made to existing files.
 
 ---
 
-QmFzZWQgb24gdGhlIGNvbW1pdCBtZXNzYWdlIGFuZCBmaWxlIGRpZmZzLCBo
-ZXJlIGlzIGEgY29uY2lzZSBzdW1tYXJ5IGZvciBhIGNoYW5nZWxvZzoKCiMj
-IyBDaGFuZ2Vsb2cKIyMjIyBUZXN0IFVwZGF0ZQpUZXN0IHdvcmtmbG93ICp0
-ZXN0MzQqIHVzaW5nIGBuOG5gLiAKCk5vIGNoYW5nZXMgZGV0ZWN0ZWQgaW4g
-ZXhpc3RpbmcgZmlsZXMuCioqTmV3IEZpbGU6KiogQWRkZWQgW2hlbGxvLnB5
-XShoZWxsby5weSkKCi0tLQoKQ2dvdExTMEtDZz09Cg==
+SGVyZSBpcyBhIGNvbmNpc2Ugc3VtbWFyeSBvZiB0aGUgY29tbWl0IG1lc3Nh
+Z2UgYW5kIGZpbGUgY2hhbmdlcyBpbiBNYXJrZG93biBmb3JtYXQ6CgojIyBD
+aGFuZ2Vsb2cKCiMjIyBDb21taXQgU3VtbWFyeQoqIFRlc3Q6IGB0ZXN0LnB5
+YCAtLSBgbjhuYCB3b3JrZmxvdyBgdGVzdDM2YAoKIyMjIEZpbGUgQ2hhbmdl
+cwoqIE1vZGlmaWVkOiBgZm9ybG9vcC5weWAKKiBObyBuZXcgZmlsZXMgYWRk
+ZWQuCiogTm8gZmlsZXMgcmVtb3ZlZC4KCi0tLQoKUW1GelpXUWdiMjRnZEdo
+bElHTnZiVzFwZENCdFpYTnpZV2RsSUdGdVpDQm1hV3hsSUdScFptWnpMQ0Jv
+ClpYSmxJR2x6SUdFZ1kyOXVZMmx6WlNCemRXMXRZWEo1SUdadmNpQmhJR05v
+WVc1blpXeHZaem9LQ2lNagpJeUJEYUdGdVoyVnNiMmNLSXlNakl5QlVaWE4w
+SUZWd1pHRjBaUXBVWlhOMElIZHZjbXRtYkc5M0lDcDAKWlhOME16UXFJSFZ6
+YVc1bklHQnVPRzVnTGlBS0NrNXZJR05vWVc1blpYTWdaR1YwWldOMFpXUWdh
+VzRnClpYaHBjM1JwYm1jZ1ptbHNaWE11Q2lvcVRtVjNJRVpwYkdVNktpb2dR
+V1JrWldRZ1cyaGxiR3h2TG5CNQpYU2hvWld4c2J5NXdlU2tLQ2kwdExRb0tR
+MmR2ZEV4VE1FdERaejA5Q2c9PQo=
+
